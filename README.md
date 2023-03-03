@@ -1,1 +1,1 @@
-# Files or notebooks for Data Science Fundamentals
+# Edited files or notebooks for the course Data Science Fundamentals
